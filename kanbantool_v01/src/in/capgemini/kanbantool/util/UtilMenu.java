@@ -99,6 +99,7 @@ public class UtilMenu {
 			
 		} while (continueChoice.equals("yes"));
 		System.out.println("******** Thanks for using the tool ********");
+		System.out.println("Have a good day !!!");
 		
 	
 		
