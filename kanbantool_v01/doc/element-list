@@ -1,0 +1,9 @@
+in.capgemini.kanabantool.dao
+in.capgemini.kanbantool.daoimpl
+in.capgemini.kanbantool.exception
+in.capgemini.kanbantool.main
+in.capgemini.kanbantool.modal
+in.capgemini.kanbantool.service
+in.capgemini.kanbantool.serviceimpl
+in.capgemini.kanbantool.test
+in.capgemini.kanbantool.util
